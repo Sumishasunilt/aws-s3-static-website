@@ -10,7 +10,9 @@ content delivery through Amazon CloudFront.
 - Amazon S3
 - Amazon CloudFront
 - IAM
-
+- HTML
+- AWS Management Console
+- 
 ## Project Implementation
 
 1. Created an Amazon S3 bucket.
