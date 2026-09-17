@@ -45,3 +45,10 @@ the static website files.
 - CDN
 - AWS Console Configuration
 - Troubleshooting
+
+ ## Project Outcome
+
+- Successfully hosted a static website using Amazon S3.
+- Configured Amazon CloudFront for content delivery and caching.
+- Accessed the website through the CloudFront distribution.
+- Practiced AWS Console configuration, IAM, S3 permissions, and troubleshooting.
